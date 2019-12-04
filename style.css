@@ -16,8 +16,8 @@ body {
 
 h1 {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 45vh;
   font-family: "Arial", sans-serif;
   font-weight: 100;
-  letter-spacing: 7px;
+  letter-spacing: 1rem;
 }
